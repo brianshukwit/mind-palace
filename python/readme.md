@@ -1,1 +1,1 @@
-the Python section
+the Python section of the mind palace
