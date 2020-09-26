@@ -5,3 +5,4 @@ Languages so far stored:
  ### C#
  ### Python
  ### HTML/CSS
+ ### JavaScript
